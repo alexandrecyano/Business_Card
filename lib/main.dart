@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
               ),
             ),
             Text(
-              'Machine Learning Engineer',
+              'LifeLong Learner',
               style: TextStyle(
                 fontFamily: 'Domine',
                 color: Colors.white,
