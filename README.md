@@ -1,1 +1,1 @@
-![Info App](mobile.PNG)
+![Info App](mobile.png)
